@@ -69,6 +69,10 @@
       {
         "destinationObjectType": "tool",
         "sourceObjectType": "content"
+      },
+      {
+        "destinationObjectType": "toolType",
+        "sourceObjectType": "tool"
       }
     ]
   },
